@@ -1,0 +1,25 @@
+body {
+    background-image: url(images/notebook.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Caveat', cursive;
+    font-size: 23px;
+    padding-left: 30px;
+    padding-right: 0px;
+}
+
+.answer {
+    font-size: 19px;
+    font-weight: 250;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    overflow: hidden;
+}
+
+.text {
+    color: black;
+    text-decoration: underline;
+}
